@@ -1,0 +1,79 @@
+{
+  "products": {
+    "cart": "კალათაში დამატება",
+    "order":"შეკვეთაში დამატება",
+    "price": "ფასი",
+    "specs": "დამატებითი მახასიათებლები",
+    "model": "მოდელი",
+    "brand": "ბრენდი"
+  },
+  "search": {
+    "search": "ძიება 🔍",
+    "results": "ძიების შედეგი:",
+    "noData":"სამწუხაროდ პროდუქცია ვერ მოიძებნა 🤷",
+    "noQuery": "შეეცადე მოძებნო რამე 🔍"
+  },
+  "footer": {
+    "Navigation": "ნავიგაცია",
+    "Follow": "გამოგვყევი",
+    "Contact": "კონტაქტი",
+    "Copyright": " Videonet.ge ყველა უფლება დაცულია."
+  },
+  "cart": {
+    "pay":"გადახდა",
+    "clear":"გასუფთავება",
+    "fullprice":"ჯამური ფასი:",
+    "sumitems":"შენს კალათაში {count} ნივთია"
+  },
+  "brand":{
+    "brands":"ბრენდები:"
+  },
+  "Signin_Register":{
+   "Signin":"შესვლა",
+   "register":"რეგისტრაცია",
+   "password":"პაროლი",
+   "Email":"ელ-ფოსტა",
+   "hello":"გამარჯობა",
+   "code":"კოდის გაგზავნა",
+   "name":"სახელი",
+   "lastName":"გავრი",
+   "Profile":"პროფილი",
+   "admin":"ადმინ პანელი"
+  },
+  "404":{
+    "error":"რაღაც შეცდომაა! 😥"
+  },
+  "category":{
+    "filters":"ფილტრები",
+    "max":"მაქს.",
+    "min":"მინ."
+  },
+  "profile":{
+   "hello":"გამარჯობა",
+   "EditProfile":"პროფილის რედაქტირება",
+   "Orders":"შეკვეთები",
+   "Password":"პაროლი",
+   "SignOut":"გამოსვლა"
+  },
+  "password":{
+   "password":"პაროლი",
+   "changePassword":"პაროლის შეცვლა",
+   "oldPassword":"ძველი პაროლი",
+   "newPassword":"ახალი პაროლი"
+  },
+  "editProfile":{
+    "editProfile":"პროფილის რედაქტირება",
+    "name":"სახელი",
+    "lastName":"გავრი",
+    "tel":"ტელეფონის ნომერი",
+     "savechanges":"ცვლილებების დამახსოვრება"
+
+  },
+  "orders":{
+   "orders":"შეკვეთები:",
+   "noOrders":"შენ არ გაქვს შეკვეთები",
+    "deleteAll":"გასუფთავება",
+    "totalPrice":"ჯამური ფასი:"
+  }
+
+}

@@ -1,0 +1,79 @@
+{
+  "products": {
+    "cart": "Add to Cart",
+    "order":"Add to Orders",
+    "price": "Price",
+    "specs": "Additional Specifications",
+    "model": "Model",
+    "brand": "Brand"
+  },
+  "search": {
+    "search": "Search 🔍",
+    "results": "Results:",
+    "noData":"Sorry, the product was not found 🤷",
+    "noQuery": "try to search something 🔍"
+  },
+  "footer": {
+    "Navigation": "Navigation",
+    "Follow": "Follow us",
+    "Contact": "Contacts",
+    "Copyright":" Videonet.ge All rights reserved."
+  },
+  "cart": {
+    "pay":"Checkout",
+    "clear":"Clear",
+    "fullprice":"Full price:",
+    "sumitems":"There are {count} items in your cart"
+  },
+  "brand":{
+    "brands":"Brands:"
+  },
+  "Signin_Register":{
+   "Signin":"Sign in",
+   "register":"Register",
+   "password":"Password",
+   "Email":"Email",
+   "hello":"Hello",
+   "code":"Send code",
+   "name":"Name",
+   "lastName":"Last Name",
+   "Profile":"Profile",
+   "admin":"Admin Panel"
+  },
+  "404":{
+    "error":"somthing went Wrong! 😥"
+  },
+  "category":{
+    "filters":" Filters",
+    "max":"max",
+    "min":"min"
+  },
+  "profile":{
+  "hello":"Hello",
+   "EditProfile":"Edit Profile",
+   "Orders":"Orders",
+   "Password":"Password",
+   "SignOut":"Sign Out"
+   },
+   "password":{ 
+    "password":"Password",
+    "changePassword":"Change Password",
+    "oldPassword":"Old Password",
+    "newPassword":"New Password"
+   },
+   "editProfile":{
+     "editProfile":"Edit Profile",
+     "name":"Name",
+     "lastName":"Last Name",
+     "tel":"Phone Number",
+     "savechanges":"Save Changes"
+   },
+   "orders":{
+    "orders":"Orders:",
+    "noOrders":"no Orders",
+    "deleteAll":"Delete All",
+    "totalPrice":"Total Price:"
+
+   }
+
+}
